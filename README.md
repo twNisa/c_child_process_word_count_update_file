@@ -2,7 +2,9 @@
 a c program utilising child processes
 
 compile command: gcc main.c -o main
+
 compile command: gcc upFile.c -o upfile
+
 run command: ./main count.txt update.txt
 
 Three child processes created by main
